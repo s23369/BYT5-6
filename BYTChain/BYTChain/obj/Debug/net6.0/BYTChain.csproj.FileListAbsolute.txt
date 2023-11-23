@@ -1,0 +1,15 @@
+C:\Users\baran\source\repos\BYTChain\BYTChain\bin\Debug\net6.0\BYTChain.exe
+C:\Users\baran\source\repos\BYTChain\BYTChain\bin\Debug\net6.0\BYTChain.deps.json
+C:\Users\baran\source\repos\BYTChain\BYTChain\bin\Debug\net6.0\BYTChain.runtimeconfig.json
+C:\Users\baran\source\repos\BYTChain\BYTChain\bin\Debug\net6.0\BYTChain.dll
+C:\Users\baran\source\repos\BYTChain\BYTChain\bin\Debug\net6.0\BYTChain.pdb
+C:\Users\baran\source\repos\BYTChain\BYTChain\obj\Debug\net6.0\BYTChain.csproj.AssemblyReference.cache
+C:\Users\baran\source\repos\BYTChain\BYTChain\obj\Debug\net6.0\BYTChain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baran\source\repos\BYTChain\BYTChain\obj\Debug\net6.0\BYTChain.AssemblyInfoInputs.cache
+C:\Users\baran\source\repos\BYTChain\BYTChain\obj\Debug\net6.0\BYTChain.AssemblyInfo.cs
+C:\Users\baran\source\repos\BYTChain\BYTChain\obj\Debug\net6.0\BYTChain.csproj.CoreCompileInputs.cache
+C:\Users\baran\source\repos\BYTChain\BYTChain\obj\Debug\net6.0\BYTChain.dll
+C:\Users\baran\source\repos\BYTChain\BYTChain\obj\Debug\net6.0\refint\BYTChain.dll
+C:\Users\baran\source\repos\BYTChain\BYTChain\obj\Debug\net6.0\BYTChain.pdb
+C:\Users\baran\source\repos\BYTChain\BYTChain\obj\Debug\net6.0\BYTChain.genruntimeconfig.cache
+C:\Users\baran\source\repos\BYTChain\BYTChain\obj\Debug\net6.0\ref\BYTChain.dll

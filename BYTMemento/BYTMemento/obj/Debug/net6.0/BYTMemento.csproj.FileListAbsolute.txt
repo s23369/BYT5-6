@@ -1,0 +1,15 @@
+C:\Users\baran\source\repos\BYTMemento\BYTMemento\bin\Debug\net6.0\BYTMemento.exe
+C:\Users\baran\source\repos\BYTMemento\BYTMemento\bin\Debug\net6.0\BYTMemento.deps.json
+C:\Users\baran\source\repos\BYTMemento\BYTMemento\bin\Debug\net6.0\BYTMemento.runtimeconfig.json
+C:\Users\baran\source\repos\BYTMemento\BYTMemento\bin\Debug\net6.0\BYTMemento.dll
+C:\Users\baran\source\repos\BYTMemento\BYTMemento\bin\Debug\net6.0\BYTMemento.pdb
+C:\Users\baran\source\repos\BYTMemento\BYTMemento\obj\Debug\net6.0\BYTMemento.csproj.AssemblyReference.cache
+C:\Users\baran\source\repos\BYTMemento\BYTMemento\obj\Debug\net6.0\BYTMemento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baran\source\repos\BYTMemento\BYTMemento\obj\Debug\net6.0\BYTMemento.AssemblyInfoInputs.cache
+C:\Users\baran\source\repos\BYTMemento\BYTMemento\obj\Debug\net6.0\BYTMemento.AssemblyInfo.cs
+C:\Users\baran\source\repos\BYTMemento\BYTMemento\obj\Debug\net6.0\BYTMemento.csproj.CoreCompileInputs.cache
+C:\Users\baran\source\repos\BYTMemento\BYTMemento\obj\Debug\net6.0\BYTMemento.dll
+C:\Users\baran\source\repos\BYTMemento\BYTMemento\obj\Debug\net6.0\refint\BYTMemento.dll
+C:\Users\baran\source\repos\BYTMemento\BYTMemento\obj\Debug\net6.0\BYTMemento.pdb
+C:\Users\baran\source\repos\BYTMemento\BYTMemento\obj\Debug\net6.0\BYTMemento.genruntimeconfig.cache
+C:\Users\baran\source\repos\BYTMemento\BYTMemento\obj\Debug\net6.0\ref\BYTMemento.dll

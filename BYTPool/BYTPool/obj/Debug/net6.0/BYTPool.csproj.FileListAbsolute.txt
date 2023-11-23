@@ -1,0 +1,15 @@
+C:\Users\baran\source\repos\BYTPool\BYTPool\bin\Debug\net6.0\BYTPool.exe
+C:\Users\baran\source\repos\BYTPool\BYTPool\bin\Debug\net6.0\BYTPool.deps.json
+C:\Users\baran\source\repos\BYTPool\BYTPool\bin\Debug\net6.0\BYTPool.runtimeconfig.json
+C:\Users\baran\source\repos\BYTPool\BYTPool\bin\Debug\net6.0\BYTPool.dll
+C:\Users\baran\source\repos\BYTPool\BYTPool\bin\Debug\net6.0\BYTPool.pdb
+C:\Users\baran\source\repos\BYTPool\BYTPool\obj\Debug\net6.0\BYTPool.csproj.AssemblyReference.cache
+C:\Users\baran\source\repos\BYTPool\BYTPool\obj\Debug\net6.0\BYTPool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baran\source\repos\BYTPool\BYTPool\obj\Debug\net6.0\BYTPool.AssemblyInfoInputs.cache
+C:\Users\baran\source\repos\BYTPool\BYTPool\obj\Debug\net6.0\BYTPool.AssemblyInfo.cs
+C:\Users\baran\source\repos\BYTPool\BYTPool\obj\Debug\net6.0\BYTPool.csproj.CoreCompileInputs.cache
+C:\Users\baran\source\repos\BYTPool\BYTPool\obj\Debug\net6.0\BYTPool.dll
+C:\Users\baran\source\repos\BYTPool\BYTPool\obj\Debug\net6.0\refint\BYTPool.dll
+C:\Users\baran\source\repos\BYTPool\BYTPool\obj\Debug\net6.0\BYTPool.pdb
+C:\Users\baran\source\repos\BYTPool\BYTPool\obj\Debug\net6.0\BYTPool.genruntimeconfig.cache
+C:\Users\baran\source\repos\BYTPool\BYTPool\obj\Debug\net6.0\ref\BYTPool.dll
